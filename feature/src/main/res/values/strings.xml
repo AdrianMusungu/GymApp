@@ -1,0 +1,23 @@
+<resources>
+    <string name="Profile">Profile</string>
+    <string name="record_workout">Record Workout</string>
+    <string name="profile">My Profile</string>
+    <string name="past_workouts">Past Workouts</string>
+    <string name="gym_locations">Gym   Locations</string>
+    <string name="title_activity_login">Sign in</string>
+
+
+
+    <string name="my_profile_content">My Profile</string>
+    <string name="gym_instructors">Gym Instructors</string>
+    <string name="your_body_your_choice">Your Body, Your Choice</string>
+    <string name="mazoezi_gym">MAZOEZI GYM</string>
+    <string name="title_activity_gym_instructors">GymInstructors</string>
+    <string name="title_activity_past_workouts">Previous Workouts</string>
+    <string name="title_activity_profile">My Profile</string>
+    <string name="title_activity_record_workout">Record Workout</string>
+    <string name="title_activity_sign_in">Sign In</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_map">Gym Locations</string>
+
+</resources>
